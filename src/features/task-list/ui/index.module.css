@@ -1,8 +1,0 @@
-.list {
-  font-family: var(--font-base);
-  display: flex;
-  flex-direction: column;
-  max-width: 500px;
-  margin-inline: auto;
-  gap: 10px;
-}
