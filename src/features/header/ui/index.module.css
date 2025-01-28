@@ -1,0 +1,15 @@
+.header {
+  color: var(--color-dark);
+  font-family: var(--font-base);
+  font-weight: 700;
+  background-color: var(--color-purple-primary);
+  margin-bottom: 16px;
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 60px;
+  padding-inline: 20px;
+}
